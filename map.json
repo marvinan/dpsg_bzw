@@ -112,12 +112,6 @@
          "id":3,
          "name":"Walls",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":156,
@@ -130,12 +124,6 @@
          "id":8,
          "name":"Collidables",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":156,
@@ -195,12 +183,6 @@
          "id":9,
          "name":"HFH Roof",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":156,
