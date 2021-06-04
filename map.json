@@ -201,6 +201,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/codenames.game\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -219,6 +224,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/garticphone.com\/de"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -237,6 +247,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/stadtlandfluss.cool\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -255,6 +270,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/drawbattle.io\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -273,6 +293,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.covidopoly.io\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
