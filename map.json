@@ -206,6 +206,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"SPACE dr\u00fccken um Codenames zu spielen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,6 +239,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"SPACE dr\u00fccken um GarticPhone zu spielen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -252,6 +272,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"SPACE dr\u00fccken um StadtLandFluss zu spielen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -275,6 +305,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"SPACE dr\u00fccken um DrawBattle zu spielen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -298,6 +338,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"SPACE dr\u00fccken um Covidopoly zu spielen"
                 }],
          "type":"tilelayer",
          "visible":true,
