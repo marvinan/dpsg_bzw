@@ -523,12 +523,6 @@
          "id":29,
          "name":"Spiele Logos",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/codenames.game\/"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":156,
